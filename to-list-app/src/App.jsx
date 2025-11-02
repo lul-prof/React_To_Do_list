@@ -1,4 +1,4 @@
-import ToDoList from './toDoList.jsx'
+import ToDoList from './ToDoList.jsx'
 import './App.css'
 
 function App() {
